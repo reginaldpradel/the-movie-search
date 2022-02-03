@@ -4,7 +4,7 @@ The Movie Search is a responsive [React](https://reactjs.org/) app that shows de
 ![Working demo gif](./screenshots/demo1.gif)
 
 ## Demo
-Visit https://the-movie-search.netlify.app/ for live demo.
+Visit https://reginaldpradel.github.io/the-movie-search/ for live demo.
 
 
 ## Instalation
